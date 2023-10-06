@@ -1,3 +1,3 @@
 # SoftwareDesignSpecification
 
-This document serves as a Software Design Specification for a Theater chain local to San Diego.
+This document serves as an example Software Design Specification for an imaginary Theater chain local to San Diego.
