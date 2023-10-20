@@ -5,3 +5,4 @@ This document contains the Sofware Architecture Diagram and description.
 It contains the project timeline and team member responsibilities.
 It also contains a UML Diagram with specific and description  of what the classes, attributes and operations do. 
 Within each class we have specific details of what each attribute and operation does.
+The added testa cases are based on specific methods that enusures the software functions are upto the outlined requirements.
